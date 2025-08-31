@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Mircea
 
-<!--
-**shotgundebugging/shotgundebugging** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer & Small Town Entrepreneur**  
+Ruby and Bash enthusiast • Big data explorer • Former Buddhist monk
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I love building resilient systems and exploring the intersections of entrepreneurship and technology. My toolkit is lean but powerful: mainly Ruby and Bash, with a true appreciation for the elegance of simple, robust solutions.
+
+While AI grabs the headlines, I've been diving into recent discoveries in big data—where meaningful insights often come from the unglamorous work of wrangling information at scale.
+
+---
+
+## 📚 Featured Content
+
+- **Newsletter:** [Beyond Rails MVC](https://www.linkedin.com/newsletters/7336395483097006080/)  
+  A LinkedIn newsletter where I share deep dives, practical tips, and explorations "beyond" the classic Rails MVC pattern.
+
+---
+
+## 🌟 Fun Fact
+
+I spent 1.5 years as a Buddhist monk.
+
+---
+
+## 🔗 Connect with Me
+
+- [LinkedIn: mircea-mare](https://www.linkedin.com/in/mircea-mare/)
+
+```
+**Want to know more about my work? Check out my repositories and let’s connect!**
+```

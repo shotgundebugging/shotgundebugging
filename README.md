@@ -7,7 +7,7 @@ Ruby and Bash enthusiast • Big data explorer • Former Buddhist monk
 
 I love building resilient systems and exploring the intersections of entrepreneurship and technology. My toolkit is lean but powerful: mainly Ruby and Bash, with a true appreciation for the elegance of simple, robust solutions.
 
-While AI grabs the headlines, I've been diving into recent discoveries in big data—where meaningful insights often come from the unglamorous work of wrangling information at scale.
+While AI grabs the headlines, I've been diving into recent discoveries in big data (where meaningful insights often come from the unglamorous work of wrangling information at scale).
 
 ## 📚 Featured Content
 

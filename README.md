@@ -21,7 +21,3 @@ I spent 1.5 years as a Buddhist monk.
 ## 🔗 Connect
 
 - [LinkedIn: mircea-mare](https://www.linkedin.com/in/mircea-mare/)
-
-```
-**Want to know more about my work? Check out my repositories and let’s connect!**
-```
